@@ -1,5 +1,15 @@
 # Mirror_Me
 
+Mirror Me ist eine Interaktive Motion-Capture-Installation,
+die mithilfe eines Bewegungserkennungs-Verfahren eine digitale Erfassung der Silhouette erstellt,
+sodass der Gast mit seinem digitalen Körper interagieren kann 
+und gleichzeitig Stück für Stück den Entwicklungsprozess entdeckt.
+
+
+
+
+
+
 Diese Interaktive Medieninstallation wurde von bereits
 existierenden Interaktionen inspiriert.
 
